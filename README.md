@@ -20,12 +20,13 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
     ([coursera.org](https://www.coursera.org/account/accomplishments/specialization/746NYVF4PLYH))
 -   **2017** : Analyste programmeur, titre pro de niveau III (CESI
     Alternance, Bordeaux)
--   **2015-2017** : Auto formation : Python, Git, Linux, algorithmes  ...
+-   **2015-2017** : Auto formation en Python, Git, Linux,
+    algorithmes  ...
     ([openclassrooms.com](https://openclassrooms.com/fr))
--   **2007-2009** : Licence Mathématique niveau 2ème année non validée
-    (Bordeaux 1)
--   **Juin 2007** : Baccalauréat S SI spé math (Lycée Val de Garonne,
-    Marmande)
+-   **2007-2009** : Licence de mathématiques niveau 2ème année non
+    validée (Bordeaux 1)
+-   **2007** : Baccalauréat S SI spé mathématiques (Lycée Val de
+    Garonne, Marmande)
 
 #### EXPÉRIENCES PROFESSIONNELLES
 
