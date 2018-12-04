@@ -1,7 +1,7 @@
 ### Alexandre POITEVIN
 
 0663240636  
-<alexandre.poitevin@pm.me>  
+[*alexandre.poitevin  @pm.me*](mailto:alexandre.poitevin@pm.me)\
 [LinkedIn](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran)  
 [GitLab](https://gitlab.com/yahya-abou-imran)  
 
@@ -39,11 +39,11 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 
 -   **Librairies Python** :
 
-    -   [**checktypes**](http://pipy.org/project/checktypes) : outils de
-        data validation
-    -   [**hybridset**](http://pypi.org/project/hybridset) : structurde
-        de données stockant séparément les valeurs hashables et non
-        hashables[]{#anchor-1}
+    -   [**checktype**](https://pypi.org/project/checktypes)[**s**](https://pypi.org/project/checktypes)
+        : outils de data validation
+    -   [**hybridset**](https://pypi.org/project/hybridset/) :
+        structurde de données stockant séparément les valeurs hashables
+        et non hashables[]{#anchor-1}
 
 #### COMPÉTENCES COMPLÉMETAIRES
 
