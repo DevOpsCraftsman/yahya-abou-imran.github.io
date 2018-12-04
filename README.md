@@ -37,7 +37,7 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 
 #### PROJETS OPEN SOURCE
 
--   **Librairies Python **:
+-   **Librairies Python** :
 
     -   [**checktypes**](http://pipy.org/project/checktypes) : outils de
         data validation
