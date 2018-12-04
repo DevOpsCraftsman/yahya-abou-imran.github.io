@@ -7,7 +7,7 @@
 
 Développeur Python Backend travaillant en méthodologie SCRUM.\
 Capable de tirer des spécifications techniques à partir de besoins,
-d'analyser des problèmes algorithmiques puis de le modéliser et de les
+d'analyser des problèmes algorithmiques puis de les modéliser et de les
 résoudre par un code de qualité et performant.\
 Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 
@@ -35,9 +35,9 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 -   **Avancé**: Python, TDD, Git, Principes SOLID, Shell, SCRUM
 -   **Intermédiare**: SQL
 
-#### PROJETS PERSONNELS
+#### PROJETS OPEN SOURCE
 
--   **Librairies Python Open Source** :
+-   **Librairies Python **:
 
     -   [**checktypes**](http://pipy.org/project/checktypes) : outils de
         data validation
@@ -45,7 +45,7 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
         de données stockant séparément les valeurs hashables et non
         hashables
 
-#### COMPÉTENCES COMPLÉMENTAIRES
+#### []{#anchor-1}COMPÉTENCES COMPLÉMENTAIRES
 
 -   **Éditeurs de textes et IDE**: Vim, PyCharm
 -   **OS**: GNU/Linux (Debian et dérivées, Arch), Mac OSX, Windows 7/10
