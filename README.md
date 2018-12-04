@@ -14,7 +14,7 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 #### FORMATION
 
 -   **2017** : Spécialisation Python de l'Université du Mishigan
-    ([coursera.org](https://www.coursera.org/accomplishments))
+    ([coursera.org](https://www.coursera.org/account/accomplishments/specialization/746NYVF4PLYH))
 -   **2017** : Analyste programmeur, titre professionnel de niveau III
     (CESI Alternance)
 -   **2015-2017** : Auto formation en programmation
