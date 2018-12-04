@@ -1,14 +1,14 @@
 ### Alexandre POITEVIN
 
-0663240636\
-<alexandre.poitevin@pm.me>
-[LinkedIn](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)\
-[GitLab](https://gitlab.com/yahya-abou-imran)\
+0663240636  
+<alexandre.poitevin@pm.me>  
+[LinkedIn](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)  
+[GitLab](https://gitlab.com/yahya-abou-imran)  
 
-Développeur Python Backend travaillant en méthodologie SCRUM.\
+Développeur Python Backend travaillant en méthodologie SCRUM.  
 Capable de tirer des spécifications techniques à partir de besoins,
 d'analyser des problèmes algorithmiques puis de les modéliser et de les
-résoudre par un code de qualité et performant.\
+résoudre par un code de qualité et performant.  
 Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 
 #### FORMATION
@@ -22,7 +22,7 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 -   **2007-2009** : Licence Mathématique niveau 2ème année non validée
     (Bordeaux 1)
 -   **Juin 2007** : Baccalauréat Scientifique (Lycée Val de Garonne,
-    Marmande)\
+    Marmande)  
     *S SI (Sciences de l'ingénieur), spécialité mathématiques*
 
 #### EXPÉRIENCES PROFESSIONNELLES
