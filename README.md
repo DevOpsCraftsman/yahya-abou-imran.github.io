@@ -1,7 +1,8 @@
 ### Alexandre POITEVIN
 
-0663240636  
-[*alexandre.poitevin  @pm.me*](mailto:alexandre.poitevin@pm.me)\
+0663240636 20 allée Tourtonde  
+[*alexandre.poitevin  @pm.me*](mailto:alexandre.poitevin@pm.me) 47200
+Marmande  
 [LinkedIn](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran)  
 [GitLab](https://gitlab.com/yahya-abou-imran)  
 
