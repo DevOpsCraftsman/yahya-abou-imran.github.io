@@ -6,13 +6,17 @@
 <alexandre.poitevin@pm.me>  
 [LinkedIn](https://gitlab.com/yahya-abou-imran) /
 [GitLab](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)  
-  
 
 Développeur Python Backend travaillant en méthodologie SCRUM.  
 Capable de tirer des spécifications techniques à partir de besoins,
 d'analyser des problèmes algorithmiques puis de les modéliser et de les
 résoudre par un code de qualité et performant.  
-Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
+Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.  
+
+#### COMPÉTENCES PRINCIPALES
+
+-   **Avancé**: Python, POO, TDD, Git, Principes SOLID, Shell, SCRUM
+-   **Intermédiare**: SQL, Kivy
 
 #### FORMATION
 
@@ -32,11 +36,6 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 
 -   **Juillet 2017** : Développeur stagiaire en intégration OpenERP/Odoo
     (Aquilog, Talence)
-
-#### COMPÉTENCES PRINCIPALES
-
--   **Avancé**: Python, POO, TDD, Git, Principes SOLID, Shell, SCRUM
--   **Intermédiare**: SQL
 
 #### PROJETS OPEN SOURCE
 
