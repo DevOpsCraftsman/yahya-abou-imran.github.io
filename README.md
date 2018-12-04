@@ -3,8 +3,7 @@
 20 allée Tourtonde  
 47200 Marmande  
 0663240636  
-<alexandre.poitevin@pm.me>
-
+[*alexandre.poitevin  @pm.me*](mailto:alexandre.poitevin@pm.me)\
 [*LinkedIn*](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran)
 / [*GitLab*](https://gitlab.com/yahya-abou-imran)  
 
@@ -16,12 +15,12 @@ Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
 
 #### FORMATION
 
--   **2017** : Spécialisation Python de l'Université du Mishigan
+-   **2017** : Spécialisation Python de l'Université du Michigan
     ([coursera.org](https://www.coursera.org/account/accomplishments/specialization/746NYVF4PLYH))
 -   **2017** : Analyste programmeur, titre professionnel de niveau III
     (CESI Alternance)
--   **2015-2017** : Auto formation en programmation
-    ([openclassrooms.com](https://openclassrooms.com/fr))
+-   **2015-2017** : Auto formation en programmation, Python, Git,
+    Linux  ... ([openclassrooms.com](https://openclassrooms.com/fr))
 -   **2007-2009** : Licence Mathématique niveau 2ème année non validée
     (Bordeaux 1)
 -   **Juin 2007** : Baccalauréat Scientifique (Lycée Val de Garonne,
