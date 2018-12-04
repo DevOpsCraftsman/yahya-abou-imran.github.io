@@ -4,5 +4,5 @@ cv_md='README.md'
 cv_docx='CV-Alexandre-Poitevin-fr.docx'
 makecv:
 	libreoffice --convert-to pdf $(cv_odt)
-	pandoc -o $(cv_docx) $(cv_odt)
+	libreoffice --convert-to docx $(cv_odt)
 	pandoc $(cv_odt) -t markdown | sed 's/\[\]{\#anchor}//' | sed 's/\\/  /' > $(cv_md)
