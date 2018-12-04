@@ -2,10 +2,8 @@
 
 0663240636\
 <alexandre.poitevin@pm.me>
-
-[LinkedIn](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)
-
-[GitLa](https://gitlab.com/yahya-abou-imran)[b](https://gitlab.com/yahya-abou-imran)\
+[LinkedIn](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)\
+[GitLab](https://gitlab.com/yahya-abou-imran)\
 
 Développeur Python Backend travaillant en méthodologie SCRUM.\
 Capable de tirer des spécifications techniques à partir de besoins,
