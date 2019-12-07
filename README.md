@@ -2,7 +2,8 @@
 
 20 allée Tourtonde  
 47200 Marmande  
-06663240636  
+Tél (FR) : +33 66 63 24 06 36  
+Mail :
 [alexandre.poitevin](mailto:alexandre.poitevin@pm.me)[47@gmail.com](mailto:alexandre.poitevin@pm.me)  
 [LinkedIn](https://gitlab.com/yahya-abou-imran) /
 [GitLab](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)
@@ -16,7 +17,7 @@ Goût du travail en équipe, ouvert d’esprit, dynamique et réactif.
 #### COMPÉTENCES PRINCIPALES
 
 -   **Avancé**: Python, POO, TDD, Git, Principes SOLID, Shell, SCRUM
--   **Intermédiare**: SQL, Kivy
+-   **Intermédiare**: SQL, Kivy, Flask
 
 #### FORMATION
 
@@ -50,5 +51,6 @@ Goût du travail en équipe, ouvert d’esprit, dynamique et réactif.
 
 -   **Éditeurs de textes et IDE**: Vim, PyCharm
 -   **OS**: GNU/Linux (Debian et dérivées, Arch)
--   **Langues**: Anglais (bon niveau), Arabe littéraire (bon niveau)
+-   **Langues**: Français (natif), Anglais (bon niveau), Arabe
+    littéraire (bon niveau)
 
