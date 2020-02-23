@@ -15,6 +15,7 @@ Points forts :
     – métaclasses (métaprogrammation) ;
     – ABCs (Abstract Base Classes) ;
     – coroutines (asynchrone) ;
+• Capable d’implémenter du code compatible Python 2/3, ainsi que de migrer du code vers la version 3
 • Capable d’utiliser efficacement les annotations et outils relatifs (mypy)
 • Maîtrise de la librairie pytest pour l’implémentation des tests unitaires (fixtures, conftest, parametrize…)
 
