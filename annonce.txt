@@ -23,11 +23,11 @@ Points forts :
 En dehors de Python :
 
 • Titulaire du diplôme français d’Analyste Programme délivré par le CESI (école d’ingénieur accréditée)
+• Sensible aux bonnes pratiques de programmation (design patterns, principes SOLID)
+• Compréhension des problématiques théorie VS performance
 • Adépte du TDD (Test‐Driven Development)
 • Utilisation de linters, outils de formatage de code, et de mesure de couverture de tests
 • Maîtrise de git et des outils d’intégration continue
-• Sensible aux bonnes pratiques de programmation (design patterns, principes SOLID)
-• Compréhension des problématiques théorie VS performance
 • Bon – voire très bon – niveau en OS de type UNIX (script shell, ligne de commande…)
 • Formé en méthodologies agiles, en particulier SCRUM
 • Capable d’évoluer rapidement sur n’importe quelle techno
