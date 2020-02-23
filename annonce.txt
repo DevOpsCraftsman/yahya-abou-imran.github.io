@@ -1,6 +1,5 @@
 Développeur spécialisé dans le langage Python
 
-
 Disponible pour tout projet Python, en particulier ceux nécessitant du code de qualité.
 
 Points forts :
@@ -22,7 +21,7 @@ Points forts :
 
 En dehors de Python :
 
-• Titulaire du diplôme français d’Analyste Programme délivré par le CESI (école d’ingénieur accréditée)
+• Titulaire du diplôme français d’Analyste Programmeur délivré par le CESI (école d’ingénieur accréditée)
 • Sensible aux bonnes pratiques de programmation (design patterns, principes SOLID)
 • Compréhension des problématiques théorie VS performance
 • Adépte du TDD (Test‐Driven Development)
