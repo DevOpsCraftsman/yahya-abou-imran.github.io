@@ -1,0 +1,33 @@
+Pythonic Python Developer
+
+Available for any Python project, particularly those who require some level of code quality.
+
+Strong points:
+
+• Able to implement “pythonic” code at ease
+• Respect of the well-known stylistic conventions (PEP8 and PEP20)
+• Proficient with advanced techniques :
+    – generators;
+    – decorates;
+    – descriptors;
+    – metaclasses;
+    – ABCs (Abstract Base Classes);
+    – coroutines (asynchrone);
+• Able to implement compatible code Python 2/3, and migrate code from 2 to 3
+• Maintainer of two open source libraries pip downloadable (checktypes and hybridset)
+• Able to use efficiently annotations et relative tools (mypy)
+• Proficient with the pytest library for unit testing (fixtures, conftest, parametrize…)
+
+
+Apart from Python:
+
+• Holder of a french degree of “Analyste Programmeur” (Associate’s degree level) issued by the CESI (engineer school)
+• Sensitive to bonnes pratiques de programmation (design patterns, principes SOLID)
+• Compréhension des problématiques théorie VS performance
+• Adépte du TDD (Test‐Driven Development)
+• Utilisation de linters, outils de formatage de code, et de mesure de couverture de tests
+• Maîtrise de git et des outils d’intégration continue
+• Bon – voire très bon – niveau en OS de type UNIX (script shell, ligne de commande…)
+• Formé en méthodologies agiles, en particulier SCRUM
+• Capable d’évoluer rapidement sur n’importe quelle techno
+• Capable de dispenser des cours/formations pour particuliers et professionnels avec pédagogie
