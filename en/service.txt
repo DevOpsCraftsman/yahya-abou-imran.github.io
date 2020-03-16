@@ -22,7 +22,7 @@ Strong points:
 Apart from Python:
 
 • Holder of a french associate’s degree of “Analyste Programmeur” issued by the CESI (engineer school)
-• Sensitive to programming good practice (design patterns, SOLID principles)
+• Sensitive to programming good practices (design patterns, SOLID principles)
 • Comprehension of theory VS performance problematics
 • TDD adept (Test‐Driven Development)
 • Good use of linters, code formatting & coverage tools
