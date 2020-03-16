@@ -1,6 +1,6 @@
 Pythonic Python Developer
 
-Available for any Python project, particularly those who require some level of code quality.
+Available for any Python project, particularly those requiring some level of code quality.
 
 Strong points:
 
@@ -21,13 +21,12 @@ Strong points:
 
 Apart from Python:
 
-• Holder of a french degree of “Analyste Programmeur” (Associate’s degree level) issued by the CESI (engineer school)
-• Sensitive to bonnes pratiques de programmation (design patterns, principes SOLID)
-• Compréhension des problématiques théorie VS performance
-• Adépte du TDD (Test‐Driven Development)
-• Utilisation de linters, outils de formatage de code, et de mesure de couverture de tests
-• Maîtrise de git et des outils d’intégration continue
-• Bon – voire très bon – niveau en OS de type UNIX (script shell, ligne de commande…)
-• Formé en méthodologies agiles, en particulier SCRUM
-• Capable d’évoluer rapidement sur n’importe quelle techno
-• Capable de dispenser des cours/formations pour particuliers et professionnels avec pédagogie
+• Holder of a french associate’s degree of “Analyste Programmeur” issued by the CESI (engineer school)
+• Sensitive to programming good practice (design patterns, SOLID principles)
+• Comprehension of theory VS performance problematics
+• TDD adept (Test‐Driven Development)
+• Good use of linters, code formatting & coverage tools
+• Proficient with git and CI tools
+• Good – nay very good – level in Unix-like OS (shell script, CLI…)
+• Trained in Agile methodologies, specifically SCRUM
+• Able to rapidly evolved on any techno (frameworks, libs…)
