@@ -1,7 +1,18 @@
 eXtreme Analyst Programmer
-
 Meticulous developer focused on quality and testing
 
-Methodology:
-  • unit tests, TDD
+Prefered Language:
+  • Python
+  • Javascript (Node.js)
+  • Ruby
+  • PhP
+
+Methodologic Aspect:
+  • Agility (XP & SCRUM)
+  • Unit Tests, TDD
   • CI
+  • SOLID Principles
+
+Other Competences:
+  • Linux OS administration (CLI, shell script)
+  • Hardcore self-learner
