@@ -1,0 +1,7 @@
+eXtreme Analyst Programmer
+
+Meticulous developer focused on quality and testing
+
+Methodology:
+  • unit tests, TDD
+  • CI
