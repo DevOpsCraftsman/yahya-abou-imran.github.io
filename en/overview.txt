@@ -1,5 +1,11 @@
 eXtreme Analyst Programmer
+
+
 Meticulous developer focused on quality and testing
+My code won’t like look like that of others… It will be better
+
+
+Readability, commentaries, test coverage and intelligible project organisation, all of that will be present, even for a couple of hours project.
 
 Prefered Language:
   • Python
