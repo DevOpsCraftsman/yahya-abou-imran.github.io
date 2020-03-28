@@ -17,16 +17,3 @@ Strong points:
 • Maintainer of two open source libraries pip downloadable (checktypes and hybridset)
 • Able to use efficiently annotations et relative tools (mypy)
 • Proficient with the pytest library for unit testing (fixtures, conftest, parametrize…)
-
-
-Apart from Python:
-
-• Holder of a french associate’s degree of “Analyste Programmeur” issued by the CESI (engineer school)
-• Sensitive to programming good practices (design patterns, SOLID principles)
-• Comprehension of theory VS performance problematics
-• TDD adept (Test‐Driven Development)
-• Good use of linters, code formatting & coverage tools
-• Proficient with git and CI tools
-• Good – nay very good – level in Unix-like OS (shell script, CLI…)
-• Trained in Agile methodologies, specifically SCRUM
-• Able to rapidly evolved on any techno (frameworks, libs…)
