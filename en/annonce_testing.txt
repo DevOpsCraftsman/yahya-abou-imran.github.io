@@ -1,4 +1,4 @@
-Add unit tests and CI/CD forkflow to an exiting Python project
+Add unit tests and CI/CD workflow to an exiting Python project
 
 
 I can implement unit tests and add use continuous integration tool to your project.
@@ -12,10 +12,12 @@ Unit testing frameworks and tools:
   • tox
   • coverage
 
-Style evaluation:
+Style and code standard evaluation:
   • pylint
+  • mypy
 
 CI/CD:
   • Git
   • Github / GitLab
   • Jenkins
+  • Docker
