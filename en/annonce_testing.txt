@@ -1,0 +1,14 @@
+Add unit tests and CI/CD forkflow to an exiting Python project
+
+
+I can implement unit tests and add use continuous 
+
+
+Unit testing frameworks and tools:
+  • unittest
+  • pytest
+  • tox
+
+CI/CD:
+  • Jenkins
+  • GitLab
