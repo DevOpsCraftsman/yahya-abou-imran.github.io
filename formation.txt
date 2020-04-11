@@ -1,0 +1,46 @@
+Formation en Programmation et Développement.
+
+— Algorithmique :
+  • Variables, conditions, boucles, tableaux, fonctions
+  • Orienté object
+  • Design Patterns (pattron de conception)
+
+— Languages de Programmation :
+  • Python
+  • Javascript
+  • Ruby
+
+— Langagues de Mise en Forme (Sites Web) :
+  • HTML5
+  • CSS3
+
+— Librairies et Frameworks (cadres de travail) :
+  • Librairie Standart
+  • Installation de Librairies tierces (via pip, npm et gem)
+  • Frameworks Web (Flask, Django, Node.js + Express, Ruby on Rails)
+  • Bootstrap
+
+— Bases de Donneés :
+  • Bases de Données SQL (Relationnelles) : SQLite, Mariadb, Postrgres
+  • Bases de Données non SQL : MongoDB, Redis
+  • ORMs (Object Relational Mapping)
+
+— Outils de développement :
+  • Éditeurs de texte
+  • Débuggeurs
+  • Linters
+  • IDEs (Envrionnements de développement intégrés)
+
+— Administration serveur :
+  • OSs (Systèmes d’Exploitation) de type GNU/Linux
+  • Ligne de Commande
+  • Virtualisation : Virtual Box, Vagrant, Docker
+
+— Processus de Qualité Logicielle :
+  • Gestion du Code Source : Git / Github / GitLab
+  • Tests unitaires, TDD (Test Driven Devlopment)
+  • Integration Continue : Travis, Jenkins, Gitlab
+
+— Méthodologie de Gestion de Projets et d’Équipes :
+  • SCRUM
+  • eXtreme Programming
