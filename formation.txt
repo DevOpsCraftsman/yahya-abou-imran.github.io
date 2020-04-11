@@ -1,46 +1,48 @@
-Formation en Programmation et Développement.
+Formation en Programmation et Développement
 
-— Algorithmique :
-  • Variables, conditions, boucles, tableaux, fonctions
-  • Orienté object
-  • Design Patterns (pattron de conception)
+Parcours ajustable en fonction des besoins et objectifs de l’apprenant
 
-— Languages de Programmation :
-  • Python
-  • Javascript
-  • Ruby
+– Algorithmique :
+    • Variables, conditions, boucles, tableaux, fonctions
+    • Orienté object
+    • Design Patterns (pattron de conception)
 
-— Langagues de Mise en Forme (Sites Web) :
-  • HTML5
-  • CSS3
+– Languages de Programmation :
+    • Python
+    • Javascript
+    • Ruby
 
-— Librairies et Frameworks (cadres de travail) :
-  • Librairie Standart
-  • Installation de Librairies tierces (via pip, npm et gem)
-  • Frameworks Web (Flask, Django, Node.js + Express, Ruby on Rails)
-  • Bootstrap
+– Langagues de Mise en Forme (Sites Web) :
+    • HTML5
+    • CSS3
 
-— Bases de Donneés :
-  • Bases de Données SQL (Relationnelles) : SQLite, Mariadb, Postrgres
-  • Bases de Données non SQL : MongoDB, Redis
-  • ORMs (Object Relational Mapping)
+– Librairies et Frameworks (cadres de travail) :
+    • Librairie Standart
+    • Installation de Librairies tierces (via pip, npm et gem)
+    • Frameworks Web (Flask, Django, Node.js + Express, Ruby on Rails)
+    • Bootstrap
 
-— Outils de développement :
-  • Éditeurs de texte
-  • Débuggeurs
-  • Linters
-  • IDEs (Envrionnements de développement intégrés)
+– Bases de Donneés :
+    • Bases de Données SQL (Relationnelles) : SQLite, Mariadb, Postrgres
+    • Bases de Données non SQL : MongoDB, Redis
+    • ORMs (Object Relational Mapping)
 
-— Administration serveur :
-  • OSs (Systèmes d’Exploitation) de type GNU/Linux
-  • Ligne de Commande
-  • Virtualisation : Virtual Box, Vagrant, Docker
+– Outils de développement :
+    • Éditeurs de texte
+    • Débuggeurs
+    • Linters
+    • IDEs (Envrionnements de développement intégrés)
 
-— Processus de Qualité Logicielle :
-  • Gestion du Code Source : Git / Github / GitLab
-  • Tests unitaires, TDD (Test Driven Devlopment)
-  • Integration Continue : Travis, Jenkins, Gitlab
+– Administration serveur :
+    • OSs (Systèmes d’Exploitation) de type GNU/Linux
+    • Ligne de Commande
+    • Virtualisation : Virtual Box, Vagrant, Docker
 
-— Méthodologie de Gestion de Projets et d’Équipes :
-  • SCRUM
-  • eXtreme Programming
+– Processus de Qualité Logicielle :
+    • Gestion du Code Source : Git / Github / GitLab
+    • Tests unitaires, TDD (Test Driven Devlopment)
+    • Integration Continue : Travis, Jenkins, Gitlab
+
+– Méthodologie de Gestion de Projets et d’Équipes :
+    • SCRUM
+    • eXtreme Programming
