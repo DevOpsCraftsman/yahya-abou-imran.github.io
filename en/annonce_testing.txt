@@ -1,9 +1,9 @@
-Add unit tests and CI/CD workflow to an exiting Python project
+Add unit tests & CI to a Python project
 
 
 I can implement unit tests and add use continuous integration tool to your project.
-By analysing the situation, I can choose the correct solutions and bring you quality control methods.
-Test your code again several versions of python, define code standards, forbid release without a certain amount of test coverage or style evaluation…
+By analyzing the situation, I can choose the correct solutions and bring you quality control methods.
+Test your code against several versions of python, define code standards, forbid release without a certain amount of test coverage or style evaluation…
 All of this is a part of this service.
 
 Unit testing frameworks and tools:
@@ -16,7 +16,7 @@ Style and code standard evaluation:
   • pylint
   • mypy
 
-CI/CD:
+CI / CD:
   • Git
   • Github / GitLab
   • Jenkins

@@ -1,11 +1,11 @@
 Formation en Programmation et Développement
 
-Parcours ajustable en fonction des besoins et objectifs de l’apprenant
+Parcours ajustable en fonction des besoins et des objectifs de l’apprenant
 
 – Algorithmique :
-    • Variables, conditions, boucles, tableaux, fonctions
-    • Orienté object
-    • Design Patterns (pattron de conception)
+    • Variables, conditions, boucles, tableaux et fonctions
+    • Orienté Object
+    • Patrons de Conception (Design Pattern)
 
 – Languages de Programmation :
     • Python
@@ -16,33 +16,31 @@ Parcours ajustable en fonction des besoins et objectifs de l’apprenant
     • HTML5
     • CSS3
 
-– Librairies et Frameworks (cadres de travail) :
-    • Librairie Standart
-    • Installation de Librairies tierces (via pip, npm et gem)
-    • Frameworks Web (Flask, Django, Node.js + Express, Ruby on Rails)
-    • Bootstrap
+– Librairies et Cadres de Travail (Framework) :
+    • Librairies Standards
+    • Librairies Tierces
+    • Frameworks Web
 
 – Bases de Donneés :
-    • Bases de Données SQL (Relationnelles) : SQLite, Mariadb, Postrgres
-    • Bases de Données non SQL : MongoDB, Redis
-    • ORMs (Object Relational Mapping)
+    • Relationnelles
+    • Non Relationnelles
+    • Mappings object-relationel (ORM)
 
 – Outils de développement :
     • Éditeurs de texte
     • Débuggeurs
-    • Linters
-    • IDEs (Envrionnements de développement intégrés)
+    • Envrionnements de développement intégrés (IDE)
 
 – Administration serveur :
-    • OSs (Systèmes d’Exploitation) de type GNU/Linux
+    • Systèmes d’Exploitation (OS) de type GNU/Linux
     • Ligne de Commande
-    • Virtualisation : Virtual Box, Vagrant, Docker
+    • Virtualisation
 
 – Processus de Qualité Logicielle :
-    • Gestion du Code Source : Git / Github / GitLab
-    • Tests unitaires, TDD (Test Driven Devlopment)
-    • Integration Continue : Travis, Jenkins, Gitlab
+    • Gestion du Code Source
+    • Tests unitaires
+    • Integration Continue
 
-– Méthodologie de Gestion de Projets et d’Équipes :
+– Méthodologies de Gestion de Projets et d’Équipes :
     • SCRUM
     • eXtreme Programming
