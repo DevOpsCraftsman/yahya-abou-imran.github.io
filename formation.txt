@@ -19,50 +19,50 @@ Avantages :
 Liste des séries de cours et des principaux axes de la formation :
 
 • Algorithmique
-    – Variables, conditions, boucles, tableaux et fonctions
-    – Orienté Object
-    – Patrons de Conception (Design Pattern)
+  – Variables, conditions, boucles, tableaux et fonctions
+  – Orienté Object
+  – Patrons de Conception (Design Pattern)
 
 • Languages de Programmation
-    – Python
-    – Javascript
-    – Ruby
+  – Python
+  – Javascript
+  – Ruby
 
 • Langagues de Mise en Forme (Sites Web)
-    – HTML 5
-    – CSS 3
+  – HTML 5
+  – CSS 3
 
 • Librairies et Cadres de Travail (Framework)
-    – Librairies Standards
-    – Librairies Tierces
-    – Frameworks Web
+  – Librairies Standards
+  – Librairies Tierces
+  – Frameworks Web
 
 • Bases de Donneés
-    – Relationnelles
-    – Non Relationnelles
-    – Mappings objet-relationel (ORM)
+  – Relationnelles
+  – Non Relationnelles
+  – Mappings objet-relationel (ORM)
 
 • Outils De développement
-    – Éditeurs de texte
-    – Débuggeurs
-    – Envrionnements de développement intégrés (IDE)
+  – Éditeurs de texte
+  – Débuggeurs
+  – Envrionnements de développement intégrés (IDE)
 
 • Administration Serveur
-    – Systèmes d’Exploitation (OS) de type GNU/Linux
-    – Ligne de Commande
-    – Virtualisation
+  – Systèmes d’Exploitation (OS) de type GNU/Linux
+  – Ligne de Commande
+  – Virtualisation
 
 • Processus de Qualité Logicielle
-    – Gestion du Code Source
-    – Tests Unitaires
-    – Integration Continue
+  – Gestion du Code Source
+  – Tests Unitaires
+  – Integration Continue
 
 • Méthodologies de Gestion de Projets et d’Équipes
-    – SCRUM
-    – eXtreme Programming
+  – SCRUM
+  – eXtreme Programming
 
 • Apprendre à être autonome
-    – Comment trouver de la documentation
-    – Utiliser des exemples de code prêt à être utilisés
-    – Poser des question sur des forums spécialisés
-    – Veille technologique
+  – Comment trouver de la documentation
+  – Utiliser des exemples de code prêt à être utilisés
+  – Poser des question sur des forums spécialisés
+  – Veille technologique
