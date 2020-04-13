@@ -2,13 +2,13 @@
 
 ---
 
-## [Formation en Programmation et Développement de Logiciels](/formation.html)
+## [Formation en Programmation et Développement de Logiciels](/pages/formation.html)
 
 ---
 
 ## Category Name 1
 
-[Project 1 Title](/sample_page.html)
+[Project 1 Title](/pages/sample_page.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
