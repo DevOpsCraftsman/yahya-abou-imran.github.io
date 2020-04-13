@@ -7,7 +7,7 @@ class ResumeGenerator:
     def __call__(self):
         s = ""
         skills = self.sections["skills"]
-        s += f"### {skills['name']}\n"
+        s += f"### {skills['name']}\n\n"
         for item in skills['content']:
-            s += f"\t- {item}"
+            s += f"  - {item}\n"
         return s

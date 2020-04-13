@@ -1,9 +1,9 @@
 {
   "skills":
   {
-    "name": "Compétences",
+    "name": "COMPÉTENCES PRINCIPALES",
     "content": [
-      "Python"
+      "**Avancé**: Python, POO, TDD, Git, Principes SOLID, Shell, SCRUM"
     ]
   }
 }
