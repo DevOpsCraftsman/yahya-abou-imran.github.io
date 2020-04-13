@@ -1,51 +1,56 @@
-## Developer Portfolio Landing Page Template
+### Alexandre POITEVIN
 
-### Introduction
+20 allée Tourtonde  
+47200 Marmande  
+Tél (FR) : +33 66 63 24 06 36  
+Mail :
+[alexandre.poitevin](mailto:alexandre.poitevin@pm.me)[47@gmail.com](mailto:alexandre.poitevin@pm.me)  
+[LinkedIn](https://gitlab.com/yahya-abou-imran) /
+[GitLab](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Développeur Python Backend travaillant en méthodologie SCRUM.  
+Capable de tirer des spécifications techniques à partir de besoins,
+d’analyser des problèmes algorithmiques puis de les modéliser et de les
+résoudre par un code de qualité et performant.  
+Goût du travail en équipe, ouvert d’esprit, dynamique et réactif.
 
-<img src="images/demo.gif?raw=true"/>
+#### COMPÉTENCES PRINCIPALES
 
-### Installation
+-   **Avancé**: Python, POO, TDD, Git, Principes SOLID, Shell, SCRUM
+-   **Intermédiare**: SQL, Kivy, Flask
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+#### FORMATION
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+-   **2017** : Spécialisation Python de l’Université du Michigan
+    ([coursera.org](https://www.coursera.org/account/accomplishments/specialization/746NYVF4PLYH))
+-   **2017** : Analyste programmeur, titre pro de niveau III (CESI
+    Alternance, Bordeaux)
+-   **2015-2017** : Auto formation en Python, Git, Linux, algorithmes...
+    ([openclassrooms.com](https://openclassrooms.com/fr))
+-   **2007-2009** : Licence de mathématiques niveau 2ème année non
+    validée (Bordeaux 1)
+-   **2007** : Baccalauréat S SI spé mathématiques (Lycée Val de
+    Garonne, Marmande)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### EXPÉRIENCES PROFESSIONNELLES
 
-### Markdown
+-   **Juillet 2017** : Développeur stagiaire en intégration OpenERP/Odoo
+    (Aquilog, Talence)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### PROJETS OPEN SOURCE
 
-```markdown
-Syntax highlighted code block
+-   **Librairies Python** :
 
-# Header 1
-## Header 2
-### Header 3
+    -   [**checktypes**](https://pypi.org/project/checktypes) : outils
+        de data validation
+    -   [**hybridset**](https://pypi.org/project/hybridset/)
+        : structure de données optimisée pour les valeurs hashables et
+        non hashables
 
-- Bulleted
-- List
+#### COMPÉTENCES COMPLÉMETAIRES
 
-1. Numbered
-2. List
+-   **Éditeurs de textes et IDE**: Vim, PyCharm
+-   **OS**: GNU/Linux (Debian et dérivées, Arch)
+-   **Langues**: Français (natif), Anglais (bon niveau), Arabe
+    littéraire (bon niveau)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
