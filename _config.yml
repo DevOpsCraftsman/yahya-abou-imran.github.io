@@ -1,9 +1,11 @@
 title: Yahya Abou Imran
 logo: "/images/profile_image.jpg?raw=true"
 description: >
-  eXtreme Analyste Programmeur
+  Extreme Analyst Programeur
   <br><br>
-  <a href="https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran">Profil LinkedIn</a>
+  <a href="https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran">LinkedIn</a>
   <br><br>
-  <a href="https://gitlab.com/yahya-abou-imran">Compte GitLab</a>
+  <a href="https://github.com/yahya-abou-imran">GitHub</a> \
+                                               / 
+  <a href="https://gitlab.com/yahya-abou-imran">GitLab</a>
 theme: jekyll-theme-minimal
