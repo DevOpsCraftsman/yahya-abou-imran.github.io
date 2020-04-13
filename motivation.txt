@@ -1,0 +1,29 @@
+Développeur Python Backend, capable de tirer des spécifications techniques à partir de besoins, d'analyser des problèmes
+algorithmiques puis de les modéliser et de les
+résoudre par un code de qualité et performant.
+
+Goût du travail en équipe, ouvert d'esprit, dynamique et réactif.
+
+Après avoir obtenu un titre professionnel d'Analyste Programmeur, je désire intégrer une entreprise dans laquelle je
+vais pouvoir évoluer, monter en compétence, et mettre à profit mes compétences.
+
+Idéalement, je souhaiterais être pris dans un premier temps en alternance afin de préparer un mastère d'Expert en
+Ingénierie Informatique sur 12 mois via la plateforme Openclassrooms.
+
+Focalisé depuis un certains temps sur le langage Python, je suis capable d'écrire du code de qualité, et je maintiens
+deux libraires open source sur pipy.org:
+
+https://pypi.org/user/yahya-abou-imran/
+
+Je suis particulièrement sensible aux notions de Design Pattern, de Principes SOLID, de code propre, clair et expressif.
+Je suis prêt à élargir mes connaissances, cependant, j'ai besoin de mentors et de seniors pour m'accompagner dans mon
+évolution.
+
+Je suis également formé en méthodologie SCRUM et eXtreme Programming, je suis un adapte convaincu du TDD, initié à
+l'intégration continue, et je suis prêt à mettre à profit tout ce que je suis capable de faire afin d'apporter mon plus
+à votre structure.
+
+J'espère vraiment que vous me donnerez l'opportunité de vous montrer la vitesse à laquelle je suis capable d'absorber de
+nouvelles technos et de les faire miennes.
+
+Je me tiens à votre disposition pour toute information complémentaire.

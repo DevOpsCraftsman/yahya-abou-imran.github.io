@@ -1,0 +1,19 @@
+Pythonic Python Developer
+
+Available for any Python project, particularly those requiring some level of code quality.
+
+Strong points:
+
+• Able to implement “pythonic” code at ease
+• Respect of the well-known stylistic conventions (PEP8 and PEP20)
+• Proficient with advanced techniques :
+    – generators;
+    – decorates;
+    – descriptors;
+    – metaclasses;
+    – ABCs (Abstract Base Classes);
+    – coroutines (asynchrone);
+• Able to implement compatible code Python 2/3, and migrate code from 2 to 3
+• Maintainer of two open source libraries pip downloadable (checktypes and hybridset)
+• Able to use efficiently annotations et relative tools (mypy)
+• Proficient with the pytest library for unit testing (fixtures, conftest, parametrize…)

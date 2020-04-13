@@ -1,0 +1,29 @@
+eXtreme Analyst Programmer: Meticulous developer focused on quality and testing. My code won’t like look like that of the others… It will be better!
+
+
+Readability, commentaries, test coverage and intelligible project organization, all of that will be present, even for a couple of hours project.
+
+Web:
+  • Back‑end:
+    – Python / Flask
+    – Node / Express
+    – PHP / CodeIgniter
+  • Front‑end:
+    – Bootsrap
+    – JQuerry
+    – React
+
+Database:
+  • PostgreSQL
+  • SQlite
+  • MongoDB
+
+Methodology:
+  • Agility (XP & SCRUM)
+  • Unit Tests, TDD
+  • CI / CD
+  • SOLID Principles
+
+Other Competences:
+  • Linux OS administration: Debian, Ubuntu, Archlinux (CLI, shell scripts…)
+  • Hardcore self-learner
