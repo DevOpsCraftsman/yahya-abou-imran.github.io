@@ -4,9 +4,7 @@
 47200 Marmande  
 Tél (FR) : +33 66 63 24 06 36  
 Mail :
-[alexandre.poitevin](mailto:alexandre.poitevin@pm.me)[47@gmail.com](mailto:alexandre.poitevin@pm.me)  
-[LinkedIn](https://gitlab.com/yahya-abou-imran) /
-[GitLab](https://www.linkedin.com/in/alexandre-poitevin-yahya-abou-imran/)
+[alexandre.poitevin47@gmail.com](mailto:alexandre.poitevin47@gmail.com)
 
 Développeur Python Backend travaillant en méthodologie SCRUM.  
 Capable de tirer des spécifications techniques à partir de besoins,
@@ -43,8 +41,7 @@ Goût du travail en équipe, ouvert d’esprit, dynamique et réactif.
 
     -   [**checktypes**](https://pypi.org/project/checktypes) : outils
         de data validation
-    -   [**hybridset**](https://pypi.org/project/hybridset/)
-        : structure de données optimisée pour les valeurs hashables et
+    -   [**hybridset**](https://pypi.org/project/hybridset) : structure de données optimisée pour les valeurs hashables et
         non hashables
 
 #### COMPÉTENCES COMPLÉMETAIRES
@@ -53,4 +50,3 @@ Goût du travail en équipe, ouvert d’esprit, dynamique et réactif.
 -   **OS**: GNU/Linux (Debian et dérivées, Arch)
 -   **Langues**: Français (natif), Anglais (bon niveau), Arabe
     littéraire (bon niveau)
-
