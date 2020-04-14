@@ -6,4 +6,4 @@ formats_sentence: "Télechargez ce CV aux formats suivants :"
 
 ---
 
-{% include_relative resumes/fr/CV-Alexandre-Poitevin.md %}
+{% include CV-Alexandre-Poitevin.md %}
