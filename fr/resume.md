@@ -1,1 +1,1 @@
-../CV-Alexandre-Poitevin-fr.md
+../resumes/fr/resume.md
