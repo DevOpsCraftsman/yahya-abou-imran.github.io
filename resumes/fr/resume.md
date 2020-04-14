@@ -1,3 +1,10 @@
+---
+
+resume: true
+layout: default
+
+---
+
 ## Alexandre POITEVIN
 
 20 allée Tourtonde  

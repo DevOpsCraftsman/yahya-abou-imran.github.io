@@ -27,6 +27,18 @@
                 {{ content }}
             </section>
 
+            {% if page.resume %}
+            <p>Télechargez ce CV aux formats suivants :</p>
+            <ol>
+                <li>
+                    <a href="">PDF</a>
+                </li>
+                <li>
+                    <a href="">DOCX (Words)</a>
+                </li>
+            </ol>
+            {% endif %}
+
             <footer>
                 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
             </footer>

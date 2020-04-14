@@ -1,3 +1,10 @@
+---
+
+title: Portfolio
+layout: default
+
+---
+
 ## Mes compétences en tant que développeur
 
 ### De Manière Générale
