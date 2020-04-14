@@ -28,15 +28,21 @@
             </section>
 
             {% if page.resume %}
-            <p>Télechargez ce CV aux formats suivants :</p>
-            <ol>
+            <p>{{ formats_sentence }}</p>
+            <ul>
                 <li>
                     <a href="">PDF</a>
                 </li>
                 <li>
                     <a href="">DOCX (Words)</a>
                 </li>
-            </ol>
+                <li>
+                    <a href="">ODT (Libreoffice)</a>
+                </li>
+                <li>
+                    <a href="">Markdown</a>
+                </li>
+            </ul>
             {% endif %}
 
             <footer>
