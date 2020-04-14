@@ -1,11 +1,3 @@
----
-
-resume: true
-layout: default
-formats_sentence: "Télechargez ce CV aux formats suivants :"
-
----
-
 ## Alexandre POITEVIN
 
 20 allée Tourtonde  
