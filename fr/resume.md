@@ -1,7 +1,8 @@
 ---
 
+download_sentence: "Télechargez ce CV aux formats suivants :"
 resume: true
-formats_sentence: "Télechargez ce CV aux formats suivants :"
+layout: default
 
 ---
 
