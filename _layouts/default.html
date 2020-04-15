@@ -31,16 +31,16 @@
             <p>{{ page.download_sentence }}</p>
             <ul>
                 <li>
-                    <a href="">PDF</a>
+                    <a href="{{ page.root_download_url }}.pdf">PDF</a>
                 </li>
                 <li>
-                    <a href="">DOCX (Words)</a>
+                    <a href="{{ page.root_download_url }}.docx">DOCX (Words)</a>
                 </li>
                 <li>
-                    <a href="">ODT (Libreoffice)</a>
+                    <a href="{{ page.root_download_url }}.odt">ODT (Libreoffice)</a>
                 </li>
                 <li>
-                    <a href="">Markdown</a>
+                    <a href=""{{ page.root_download_url }}.md>Markdown</a>
                 </li>
             </ul>
             {% endif %}
