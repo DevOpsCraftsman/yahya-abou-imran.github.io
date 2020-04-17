@@ -7,7 +7,7 @@ layout: default
 
 ## Mes compétences en tant que développeur
 
-### De Manière Générale
+### De Manière Générale :
 
 - Développement de logiciels pour PC
 - Développement de d’applications pour smartphones
@@ -15,13 +15,17 @@ layout: default
 - Programmation générale, tout type confondu
 - Enseignement de la programmation
 
----
+### En détail :
 
-## [Formation en Programmation et Développement de Logiciels](/fr/formation.html)
+#### [Consultez ce lien](/fr/skills.md)
 
 ---
 
 ## [Consultez mon CV](/fr/resume.html)
+
+---
+
+## [Formation en Programmation et Développement de Logiciels](/fr/formation.html)
 
 ---
 
