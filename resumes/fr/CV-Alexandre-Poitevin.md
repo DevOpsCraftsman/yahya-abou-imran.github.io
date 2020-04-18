@@ -1,9 +1,9 @@
 ## Alexandre POITEVIN
 
-66 Hay Ouled Brahim
-Hammadi
-Boumerdes, Algérie
-Tél (DZ) : +213 7 98 78 64 28
+66 Hay Ouled Brahim  
+Hammadi  
+Boumerdes, Algérie  
+Tél (DZ) : +213 7 98 78 64 28  
 Mail :
 [alexandre.poitevin47@gmail.com](mailto:alexandre.poitevin47@gmail.com)
 
