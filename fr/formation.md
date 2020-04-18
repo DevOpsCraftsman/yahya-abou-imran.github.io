@@ -1,4 +1,4 @@
-# Formation en Programmation et Développement
+# Formation en Programmation et Développement de Logiciels
 
 
 ## Apprenez à réaliser :
