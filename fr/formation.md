@@ -2,17 +2,18 @@
 
 
 ## Apprenez à réaliser :
-- Des programmes et des logiciels pour PC
-- Des applications pour smartphones (Android et iPhone)
-- Des sites Web
-- Et bien d’autres choses !
+  - Des programmes et des logiciels pour PC
+  - Des applications pour smartphones (Android et iPhone)
+  - Des sites Web
+  - Et bien d’autres choses !
 
 
 ## Avantages :
 
-- Parcours ajustable en fonction des besoins et des objectifs de l’apprenant
-- Horaires et tarifs à convenir en fonction des moyens et de l’emploie du temps de chacun
-- Possibilités de se limiter à certaines parties de la formation au lieu de sa totalité
+  - Parcours ajustable en fonction des besoins et des objectifs de l’apprenant
+  - Horaires à convenir en fonction de l’emploie du temps de chacun
+  - Possibilités de se limiter à certaines parties de la formation au lieu de sa totalité
+  - Tarifs raisonnables, à l’heure ou au forfait (une semaine, deux semaines, un mois…)
 
 
 ## Liste des séries de cours et des principaux axes de la formation :
