@@ -10,7 +10,7 @@ layout: default
 ### De Manière Générale :
 
 - Développement de logiciels pour PC
-- Développement de d’applications pour smartphones
+- Développement d’applications pour smartphones
 - Création de sites Web
 - Programmation générale, tout type confondu
 - Enseignement de la programmation
