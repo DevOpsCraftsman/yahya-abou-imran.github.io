@@ -16,20 +16,21 @@
 - `[**   ]` C
 - `[*    ]` C++
 - `[*    ]` Go
-- `[     ]` Rust
-
-
-## Functional Programming
-
-- `[     ]` Haskell
-- `[     ]` OCaml
-- `[*    ]` Elixir
+- `[*    ]` Rust
 
 
 ## Other (historical / Well Known)
 
 - `[     ]` Lisp (Clojure)
+- `[     ]` Smalltalk
 - `[     ]` Perl
+- `[     ]` Haskell
+
+
+## Functional Programming
+
+- `[     ]` OCaml
+- `[*    ]` Elixir
 
 
 ## Maybe… (Curiosity)
@@ -38,6 +39,15 @@
 - `[     ]` Scala
 - `[     ]` Kotlin
 - `[     ]` Groovy
+- `[*    ]` Crystal
+
+
+#### Not interested
+
+- C#
+- F#
+- Swift
+- Objective-C
 
 
 ### Level Points
@@ -47,14 +57,7 @@ These are not strict definitions, but approximations.
 - `[     ]`: Nothing, not even hello world
 - `[*    ]`: Basic Algorithm (variables, conditions, loops…)
 - `[**   ]`: Common builtins (functions and types), keywords and idioms
-- `[***  ]`: Successful toy project (>= 1 month)
+- `[***  ]`: Successful toy project (~ months)
 - `[**** ]`: 2 years of daily use
 - `[*****]`: 5 years of daily use
-
-
-#### Not interested
-
-- C#
-- F#
-- Swift
 
