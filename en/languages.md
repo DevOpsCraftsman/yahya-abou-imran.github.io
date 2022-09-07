@@ -1,63 +1,69 @@
 # Languages Level / Learning Roadmap
 
 
-## Modern & Most Used
+## Main List
+
+### Mainstream
 
 - `[*****]` Python
 - `[**   ]` Java
+- `[     ]` C#
 - `[**   ]` JavaScript / TypeScript
 - `[**   ]` Php
 - `[**   ]` Ruby
 - `[**   ]` Dart (Flutter)
 
-
-## C & Friends
+### C Family
 
 - `[**   ]` C
 - `[*    ]` C++
 - `[*    ]` Go
-- `[*    ]` Rust
+- `[**   ]` Rust
 
+### Historical
 
-## Other (historical / Well Known)
-
-- `[     ]` Lisp (Clojure)
+- `[     ]` Fortran
+- `[     ]` Lisp
+- `[     ]` Cobol
+- `[     ]` Prolog
 - `[     ]` Smalltalk
-- `[     ]` Perl
+- `[     ]` Pascal
+- `[     ]` Ada
 - `[     ]` Haskell
+- `[     ]` Perl
 
 
-## Functional Programming
+## Secondary
+
+### Functional Programming
 
 - `[     ]` OCaml
 - `[*    ]` Elixir
+- `[     ]` F#
 
 
-## Maybe… (Curiosity)
+### JVM
 
-- `[     ]` Julia
-- `[     ]` Scala
+- `[     ]` Clojure
 - `[     ]` Kotlin
+- `[     ]` Scala
 - `[     ]` Groovy
+
+### Others
+
 - `[*    ]` Crystal
+- `[     ]` Julia
+- `[     ]` Swift
 
 
-#### Not interested
-
-- C#
-- F#
-- Swift
-- Objective-C
-
-
-### Level Points
+## Level Points
 
 These are not strict definitions, but approximations.
 
 - `[     ]`: Nothing, not even hello world
 - `[*    ]`: Basic Algorithm (variables, conditions, loops…)
-- `[**   ]`: Common builtins (functions and types), keywords and idioms
-- `[***  ]`: Successful toy project (~ months)
+- `[**   ]`: Most important keywords, concepts, builtin tools and idioms
+- `[***  ]`: Successful toy/pet project (~months)
 - `[**** ]`: 2 years of daily use
 - `[*****]`: 5 years of daily use
 
