@@ -1,0 +1,33 @@
+- name: Python
+  date: 1991
+  mainstream: true
+  level: 5
+
+- name: Java
+  date: 1995
+  mainstream: true
+  level: 2
+
+- name: Rust
+  date: 2014
+  interest: 5
+  prod: true
+  level: 1
+
+- name: Dart / Flutter
+  date: 2011
+  interest: 5
+  prod: true
+  level: 2
+
+- name: Elixir
+  date: 2014
+  interest: 3
+  prod: true
+  level: 1
+
+- name: Haskel
+  date: 1990
+  interest: 3
+  level: 1
+
