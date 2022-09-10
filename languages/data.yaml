@@ -11,24 +11,48 @@
 - name: Rust
   date: 2014
   interest: 5
-  prod: true
+  secondary: true
+  level: 1
+
+- name: Go
+  date: 2009
+  interest: 2
+  secondary: true
   level: 1
 
 - name: Dart / Flutter
   date: 2011
   interest: 5
-  prod: true
+  secondary: true
   level: 2
 
 - name: Elixir
   date: 2014
-  interest: 3
-  prod: true
+  interest: 4
+  secondary: true
+  level: 1
+
+- name: Julia
+  date: ...
+  interest: 1
+  secondary: true
+  level: 1
+
+- name: Scala
+  date: ...
+  interest: 1
+  secondary: true
+  level: 1
+
+- name: Kotlin
+  date: ...
+  interest: 1
+  secondary: true
   level: 1
 
 - name: Haskel
   date: 1990
-  interest: 3
+  interest: 4
   level: 1
 
 - name: Perl
@@ -36,6 +60,15 @@
   interest: 2
   level: 0
 
+- name: Crystal
+  date: ...
+  interest: 1
+  level: 0
+
+- name: Clojure
+  date: ...
+  interest: 1
+  level: 0
 
 # Historical languages
 
@@ -64,6 +97,11 @@
   historical: true
   level: 0
 
+- name: C
+  date: 1972
+  historical: true
+  level: 2
+
 - name: Smalltalk
   date: 1972
   historical: true
@@ -71,6 +109,11 @@
 
 - name: Ada
   date: 1980
+  historical: true
+  level: 0
+
+- name: C++
+  date: 1985
   historical: true
   level: 0
 

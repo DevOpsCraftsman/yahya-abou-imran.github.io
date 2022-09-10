@@ -35,13 +35,6 @@
 
 ## Secondary
 
-### Functional Programming
-
-- `[     ]` OCaml
-- `[*    ]` Elixir
-- `[     ]` F#
-
-
 ### JVM
 
 - `[     ]` Clojure

@@ -2,13 +2,17 @@ import yaml
 
 
 def sort(languages):
-     return sorted(languages, key=lambda lang: lang["date"])
+    def _k(lang):
+        date = lang.get("date")
+        return 3000 if date == "..." else date
+    return sorted(languages, key=_k)
 
 
 def display(languages):
     for l in sort(languages):
         s = f"- `[{('*' * l['level']).ljust(5)}]` {l['name']} ({l['date']})"
         print(s)
+
 
 def extract(languages, field):
     extracted = []
@@ -27,8 +31,8 @@ print("## Mainstreams:")
 display(extract(data, "mainstream"))
 
 
-print("\n## Interinting for prod:")
-display(extract(data, "prod"))
+print("\n## Secondary:")
+display(extract(data, "secondary"))
 
 
 print("\n## Historicals:")
