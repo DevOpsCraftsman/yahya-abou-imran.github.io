@@ -31,3 +31,46 @@
   interest: 3
   level: 1
 
+- name: Perl
+  date: 1987
+  interest: 2
+  level: 0
+
+
+# Historical languages
+
+- name: Fortran
+  date: 1957
+  historical: true
+  level: 0
+
+- name: Lisp
+  date: 1958
+  historical: true
+  level: 0
+
+- name: Cobol
+  date: 1959
+  historical: true
+  level: 0
+
+- name: Pascal
+  date: 1970
+  historical: true
+  level: 0
+
+- name: Prolog
+  date: 1972
+  historical: true
+  level: 0
+
+- name: Smalltalk
+  date: 1972
+  historical: true
+  level: 0
+
+- name: Ada
+  date: 1980
+  historical: true
+  level: 0
+

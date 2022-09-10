@@ -31,5 +31,9 @@ print("\n## Interinting for prod:")
 display(extract(data, "prod"))
 
 
+print("\n## Historicals:")
+display(extract(data, "historical"))
+
+
 print("\n## Others:")
 display(data)
