@@ -75,7 +75,7 @@
 - name: Fortran
   date: 1957
   historical: true
-  level: 0
+  level: 2
 
 - name: Lisp
   date: 1958
@@ -85,7 +85,7 @@
 - name: Cobol
   date: 1959
   historical: true
-  level: 0
+  level: 2
 
 - name: Pascal
   date: 1970
