@@ -33,19 +33,19 @@
   level: 1
 
 - name: Julia
-  date: ...
+  date: 3000
   interest: 1
   secondary: true
   level: 1
 
 - name: Scala
-  date: ...
+  date: 3000
   interest: 1
   secondary: true
   level: 1
 
 - name: Kotlin
-  date: ...
+  date: 3000
   interest: 1
   secondary: true
   level: 1
@@ -61,12 +61,12 @@
   level: 0
 
 - name: Crystal
-  date: ...
+  date: 3000
   interest: 1
   level: 0
 
 - name: Clojure
-  date: ...
+  date: 3000
   interest: 1
   level: 0
 

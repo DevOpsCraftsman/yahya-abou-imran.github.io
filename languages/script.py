@@ -1,15 +1,16 @@
 import yaml
 
 
-def sort(languages):
+def sort(languages, *fields):
+    if not fields:
+        fields = ("date",)
     def _k(lang):
-        date = lang.get("date")
-        return 3000 if date == "..." else date
+        return tuple(lang.get(f) for f in fields)
     return sorted(languages, key=_k)
 
 
-def display(languages):
-    for l in sort(languages):
+def display(languages, *fields):
+    for l in sort(languages, *fields):
         s = f"- `[{('*' * l['level']).ljust(5)}]` {l['name']} ({l['date']})"
         print(s)
 
@@ -36,7 +37,7 @@ display(extract(data, "secondary"))
 
 
 print("\n## Historicals:")
-display(extract(data, "historical"))
+display(extract(data, "historical"), "level", "date")
 
 
 print("\n## Others:")
