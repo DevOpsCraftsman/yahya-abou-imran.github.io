@@ -29,7 +29,7 @@ with open("./data.yaml") as file:
 
 
 print("## Mainstreams:")
-display(extract(data, "mainstream"))
+display(extract(data, "mainstream"), "level", "date")
 
 
 print("\n## Secondary:")

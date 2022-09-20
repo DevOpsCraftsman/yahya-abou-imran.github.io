@@ -1,10 +1,10 @@
 ## Mainstreams:
-- `[*****]` Python (1991)
 - `[**   ]` Java (1995)
 - `[**   ]` PHP (1995)
-- `[***  ]` JavaScript (1995)
 - `[**   ]` Ruby (1995)
 - `[**   ]` C# (2000)
+- `[***  ]` JavaScript (1995)
+- `[*****]` Python (1991)
 
 ## Secondary:
 - `[*    ]` Groovy (2003)
