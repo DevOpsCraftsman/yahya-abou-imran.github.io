@@ -8,6 +8,26 @@
   mainstream: true
   level: 2
 
+- name: PHP
+  date: 1995
+  mainstream: true
+  level: 2
+
+- name: C#
+  date: 2000
+  mainstream: true
+  level: 2
+
+- name: JavaScript
+  date: 1995
+  mainstream: true
+  level: 3
+
+- name: Ruby
+  date: 1995
+  mainstream: true
+  level: 2
+
 - name: Rust
   date: 2014
   interest: 5
@@ -33,21 +53,30 @@
   level: 1
 
 - name: Julia
-  date: 3000
+  date: 2012
   interest: 1
   secondary: true
   level: 1
 
 - name: Scala
-  date: 3000
+  date: 2004
   interest: 1
   secondary: true
+  jvm: true
   level: 1
 
 - name: Kotlin
-  date: 3000
+  date: 2011
+  interest: 2
+  secondary: true
+  jvm: true
+  level: 1
+
+- name: Groovy
+  date: 2003
   interest: 1
   secondary: true
+  jvm: true
   level: 1
 
 - name: Haskel
@@ -61,13 +90,14 @@
   level: 0
 
 - name: Crystal
-  date: 3000
-  interest: 1
+  date: 2014
+  interest: 2
   level: 0
 
 - name: Clojure
-  date: 3000
-  interest: 1
+  date: 2007
+  interest: 3
+  jvm: true
   level: 0
 
 # Historical languages

@@ -1,15 +1,20 @@
 ## Mainstreams:
 - `[*****]` Python (1991)
 - `[**   ]` Java (1995)
+- `[**   ]` PHP (1995)
+- `[***  ]` JavaScript (1995)
+- `[**   ]` Ruby (1995)
+- `[**   ]` C# (2000)
 
 ## Secondary:
+- `[*    ]` Groovy (2003)
+- `[*    ]` Scala (2004)
 - `[*    ]` Go (2009)
 - `[**   ]` Dart / Flutter (2011)
+- `[*    ]` Kotlin (2011)
+- `[*    ]` Julia (2012)
 - `[*    ]` Rust (2014)
 - `[*    ]` Elixir (2014)
-- `[*    ]` Julia (3000)
-- `[*    ]` Scala (3000)
-- `[*    ]` Kotlin (3000)
 
 ## Historicals:
 - `[     ]` Lisp (1958)
@@ -25,5 +30,5 @@
 ## Others:
 - `[     ]` Perl (1987)
 - `[*    ]` Haskel (1990)
-- `[     ]` Crystal (3000)
-- `[     ]` Clojure (3000)
+- `[     ]` Clojure (2007)
+- `[     ]` Crystal (2014)
