@@ -31,9 +31,11 @@ with open("./data.yaml") as file:
 print("## Mainstreams:")
 display(extract(data, "mainstream"), "level", "date")
 
+print("\n## JVM:")
+display(extract(data, "jvm"), "level", "date")
 
 print("\n## Secondary:")
-display(extract(data, "secondary"))
+display(extract(data, "secondary"), "level", "date")
 
 
 print("\n## Historicals:")
@@ -41,4 +43,4 @@ display(extract(data, "historical"), "level", "date")
 
 
 print("\n## Others:")
-display(data)
+display(data, "level", "date")

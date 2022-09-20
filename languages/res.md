@@ -6,15 +6,18 @@
 - `[***  ]` JavaScript (1995)
 - `[*****]` Python (1991)
 
-## Secondary:
+## JVM:
+- `[     ]` Clojure (2007)
 - `[*    ]` Groovy (2003)
 - `[*    ]` Scala (2004)
-- `[*    ]` Go (2009)
-- `[**   ]` Dart / Flutter (2011)
 - `[*    ]` Kotlin (2011)
+
+## Secondary:
+- `[*    ]` Go (2009)
 - `[*    ]` Julia (2012)
 - `[*    ]` Rust (2014)
 - `[*    ]` Elixir (2014)
+- `[**   ]` Dart / Flutter (2011)
 
 ## Historicals:
 - `[     ]` Lisp (1958)
@@ -29,6 +32,5 @@
 
 ## Others:
 - `[     ]` Perl (1987)
-- `[*    ]` Haskel (1990)
-- `[     ]` Clojure (2007)
 - `[     ]` Crystal (2014)
+- `[*    ]` Haskel (1990)
