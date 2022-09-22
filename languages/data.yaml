@@ -125,7 +125,7 @@
 - name: Prolog
   date: 1972
   historical: true
-  level: 0
+  level: 2
 
 - name: C
   date: 1972
