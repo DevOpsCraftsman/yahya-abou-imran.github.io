@@ -22,12 +22,12 @@
 ## Historicals:
 - `[     ]` Lisp (1958)
 - `[     ]` Pascal (1970)
-- `[     ]` Prolog (1972)
 - `[     ]` Smalltalk (1972)
 - `[     ]` Ada (1980)
 - `[     ]` C++ (1985)
 - `[**   ]` Fortran (1957)
 - `[**   ]` Cobol (1959)
+- `[**   ]` Prolog (1972)
 - `[**   ]` C (1972)
 
 ## Others:
