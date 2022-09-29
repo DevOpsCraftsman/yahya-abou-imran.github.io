@@ -147,3 +147,18 @@
   historical: true
   level: 0
 
+- name: APL
+  date: 1966
+  historical: true
+  level: 0
+
+- name: Forth
+  date: 1970
+  historical: true
+  level: 0
+
+- name: lua
+  date: 1993
+  interest: 2
+  level: 1
+
