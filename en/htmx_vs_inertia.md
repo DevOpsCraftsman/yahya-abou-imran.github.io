@@ -13,7 +13,20 @@ Inertia: method attribute of Link tag
 ### Make requests from other elements than a tag
 
 htmx: hx-get (and others) can de used on any element
+
 Inertia: as attribute of Link element can specify the wanted tag
+
+### Pass body data for POST requests
+
+htmx: hx-vals attribute 
+
+Inertia: data attribute of Link tag
+
+### Pass custom headers 
+
+htmx: hx-headers attribute 
+
+Inertia: header attribute of Link tag
 
 ### Preserve some elements to be updated
 
