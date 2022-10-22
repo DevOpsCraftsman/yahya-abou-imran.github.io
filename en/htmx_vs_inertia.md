@@ -32,6 +32,6 @@ Inertia: header attribute of Link tag
 
 htmx: hx-preserve attribute
 
-Inertia: preserve attribute
+Inertia: preserveState attribute
 
 ### 
