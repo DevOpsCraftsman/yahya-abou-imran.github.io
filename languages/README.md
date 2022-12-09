@@ -7,10 +7,7 @@
 - `[*****]` Python (1991)
 
 ## Secondary:
-- `[*    ]` Groovy (2003)
-- `[*    ]` Scala (2004)
 - `[*    ]` Go (2009)
-- `[*    ]` Kotlin (2011)
 - `[*    ]` Julia (2012)
 - `[*    ]` Rust (2014)
 - `[*    ]` Elixir (2014)
@@ -18,6 +15,9 @@
 
 ## JVM:
 - `[     ]` Clojure (2007)
+- `[*    ]` Groovy (2003)
+- `[*    ]` Scala (2004)
+- `[*    ]` Kotlin (2011)
 
 ## Historicals:
 - `[     ]` Lisp (1958)

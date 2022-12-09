@@ -31,11 +31,13 @@ with open("./data.yaml") as file:
 print("## Mainstreams:")
 display(extract(data, "mainstream"), "level", "date")
 
+jvm_languages = extract(data, "jvm")
+
 print("\n## Secondary:")
 display(extract(data, "secondary"), "level", "date")
 
 print("\n## JVM:")
-display(extract(data, "jvm"), "level", "date")
+display(jvm_languages, "level", "date")
 
 
 print("\n## Historicals:")
