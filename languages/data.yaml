@@ -100,8 +100,6 @@
   jvm: true
   level: 0
 
-# Historical languages
-
 - name: Fortran
   date: 1957
   historical: true
