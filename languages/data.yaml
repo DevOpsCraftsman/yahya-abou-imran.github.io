@@ -123,12 +123,12 @@
 - name: Prolog
   date: 1972
   historical: true
-  level: 2
+  level: 1
 
 - name: C
   date: 1972
   historical: true
-  level: 2
+  level: 3
 
 - name: Smalltalk
   date: 1972
