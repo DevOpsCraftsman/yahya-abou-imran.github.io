@@ -25,7 +25,7 @@ methodologies = [
         "shortname": "DDD",
     },
     {
-        "name": "Continous Delivery",
+        "name": "Continuous Delivery",
         "shortname": "CI/CD",
     },
     {
