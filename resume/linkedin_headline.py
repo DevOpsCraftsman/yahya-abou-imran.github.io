@@ -9,6 +9,9 @@ methodologies = {
     "DevOps": {
         "name": "DevOps",
     },
+    "Lean": {
+        "name": "Lean",
+    },
     "Agile": {
         "name": "Agile",
     },
@@ -29,12 +32,15 @@ methodologies = {
     },
     "CI/CD": {
         "name": "Continuous Delivery",
+        "level": "Medium",
     },
     "SOLID": {
         "name": "SOLID principles",
+        "level": "Medium",
     },
     "TDD": {
         "name": "Test Driven Development",
+        "level": "low",
     },
 }
 
@@ -42,14 +48,15 @@ max_len = 220
 pc_cut_len = 69
 phone_cut_len = 50
 
-sep = " & "
 
 s = ""
-s += f"{post} "
-s += f"@{company}; "
+# s += f"{post} "
+s += f"@{company}: "
 # s += "Stack: "
+sep = ", "
 res = s
-for meth in methodologies.values():
+for name, meth in methodologies.items():
+    # s += name
     s += meth["name"]
     if len(s) >= max_len:
         break
@@ -65,7 +72,7 @@ print(res[:phone_cut_len] + "…")
 print()
 
 assert company in res[:phone_cut_len]
-assert methodologies["Craft"]["name"] in res[:phone_cut_len]
+assert "Craft" in res[:phone_cut_len]
 
 assert len(res) <= max_len
 
