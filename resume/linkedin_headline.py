@@ -49,31 +49,44 @@ pc_cut_len = 69
 phone_cut_len = 50
 
 
-s = ""
-# s += f"{post} "
-s += f"@{company} = "
-# s += "Stack: "
-sep = " & "
-res = s
-for name, meth in methodologies.items():
-    # _s = name
-    _s = meth["name"]
-    s += _s.replace(" ", " ", 1)
-    if len(s) >= max_len:
-        break
-    res = s = s + sep
 
-res = res.removesuffix(sep)
 
-print()
-print(res)
-print()
-print(res[:pc_cut_len] + "…")
-print(res[:phone_cut_len] + "…")
-print()
+def compute():
 
-assert company in res[:phone_cut_len]
-assert "Craft" in res[:phone_cut_len]
+    s = ""
+    # s += f"{post} "
+    s += f"@{company} = "
+    # s += "Stack: "
 
-assert len(res) <= max_len
+    sep = " & "
+    res = s
+    for name, meth in methodologies.items():
+        # _s = name
+        _s = meth["name"]
+        s += _s.replace(" ", " ", 1)
+        if len(s) >= max_len:
+            break
+        res = s = s + sep
 
+    res = res.removesuffix(sep)
+    return res
+
+
+def display(res):
+    print()
+    print(res)
+    print()
+    print(res[:pc_cut_len] + "…")
+    print(res[:phone_cut_len] + "…")
+    print()
+
+def valitade(res):
+    assert company in res[:phone_cut_len]
+    assert "Craft" in res[:phone_cut_len]
+    assert len(res) <= max_len
+
+
+if __name__ == "__main__":
+    res = compute()
+    display(res)
+    valitade(res)
