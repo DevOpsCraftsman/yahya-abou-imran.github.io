@@ -18,6 +18,10 @@ methodologies = {
     "XP": {
         "name": "Extreme Programming",
     },
+    "CI/CD": {
+        "name": "Continuous Delivery",
+        "level": "Medium",
+    },
     "Clean Code": {
         "name": "Clean Code",
     },
@@ -30,18 +34,14 @@ methodologies = {
     "BDD": {
         "name": "Behavior Driven Development",
     },
-    "CI/CD": {
-        "name": "Continuous Delivery",
-        "level": "Medium",
-    },
-    "SOLID": {
-        "name": "SOLID principles",
-        "level": "Medium",
-    },
-    "TDD": {
-        "name": "Test Driven Development",
-        "level": "low",
-    },
+    # "SOLID": {
+    #     "name": "SOLID principles",
+    #     "level": "Medium",
+    # },
+    # "TDD": {
+    #     "name": "Test Driven Development",
+    #     "level": "low",
+    # },
 }
 
 max_len = 220
@@ -51,13 +51,14 @@ phone_cut_len = 50
 
 s = ""
 # s += f"{post} "
-s += f"@{company}: "
+s += f"@{company} = "
 # s += "Stack: "
-sep = ", "
+sep = " & "
 res = s
 for name, meth in methodologies.items():
-    # s += name
-    s += meth["name"]
+    # _s = name
+    _s = meth["name"]
+    s += _s.replace(" ", " ", 1)
     if len(s) >= max_len:
         break
     res = s = s + sep
