@@ -47,23 +47,24 @@ methodologies = {
 max_len = 220
 pc_cut_len = 69
 phone_cut_len = 50
+sep = " & "
+nbsp = True
 
 
-
-
-def compute():
+def compute(*, sep=sep, nbsp=nbsp):
 
     s = ""
     # s += f"{post} "
     s += f"@{company} = "
     # s += "Stack: "
 
-    sep = " & "
     res = s
     for name, meth in methodologies.items():
         # _s = name
         _s = meth["name"]
-        s += _s.replace(" ", " ", 1)
+        if nbsp:
+            _s = _s.replace(" ", " ", 1)
+        s += _s
         if len(s) >= max_len:
             break
         res = s = s + sep
@@ -87,6 +88,12 @@ def valitade(res):
 
 
 if __name__ == "__main__":
-    res = compute()
+    import sys
+    if len(sys.argv) >= 2:
+        sep = sys.argv[1]
+    if len(sys.argv) >= 3:
+        nbsp = False
+        print("Not using NBSP")
+    res = compute(sep=sep, nbsp=nbsp)
     display(res)
     valitade(res)
