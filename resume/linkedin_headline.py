@@ -11,9 +11,11 @@ methodologies = {
     },
     "Lean": {
         "name": "Lean Software Development",
+        "headline": False,
     },
     "Agile": {
         "name": "Agile",
+        "headline": False,
     },
     "XP": {
         "name": "Extreme Programming",
@@ -61,6 +63,8 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
 
     res = s
     for name, meth in methodologies.items():
+        if not meth.get("headline", True):
+            continue
         if short:
             _s = name
         else:
