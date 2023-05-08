@@ -10,7 +10,7 @@ methodologies = {
         "name": "DevOps",
     },
     "Lean": {
-        "name": "Lean",
+        "name": "Lean Software Development",
     },
     "Agile": {
         "name": "Agile",
@@ -52,7 +52,7 @@ nbsp = True
 short = True
 
 
-def compute(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
+def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
 
     s = ""
     # s += f"{post} "
@@ -73,6 +73,17 @@ def compute(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
         res = s = s + sep
 
     res = res.removesuffix(sep)
+    return res
+
+
+def description():
+
+    res = ""
+    for shortname, meth in methodologies.items():
+        name = meth["name"]
+        s = f"• {name}\n"
+        res += s
+
     return res
 
 
@@ -99,6 +110,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if not args.nbsp:
         print("Not using NBSP")
-    res = compute(**vars(args))
+    res = headline(**vars(args))
     display(res)
     valitade(res)
+    print(description())
+
