@@ -18,26 +18,26 @@ methodologies = {
     "XP": {
         "name": "Extreme Programming",
     },
+    "TDD/BDD": {
+        "name": "Behavior Driven Development",
+    },
     "CI/CD": {
         "name": "Continuous Delivery",
         "level": "Medium",
     },
-    "Clean Code": {
-        "name": "Clean Code",
-    },
-    "Clean Architecure": {
-        "name": "Clean Architecture",
-    },
     "DDD": {
         "name": "Domain Driven Design",
     },
-    "BDD": {
-        "name": "Behavior Driven Development",
+    "Clean Arch": {
+        "name": "Clean Architecture",
     },
-    # "SOLID": {
-    #     "name": "SOLID principles",
-    #     "level": "Medium",
-    # },
+    "Clean Code": {
+        "name": "Clean Code",
+    },
+    "SOLID": {
+        "name": "SOLID principles",
+        "level": "Medium",
+    },
     # "TDD": {
     #     "name": "Test Driven Development",
     #     "level": "low",
@@ -49,9 +49,10 @@ pc_cut_len = 69
 phone_cut_len = 50
 sep = " & "
 nbsp = True
+short = True
 
 
-def compute(*, sep=sep, nbsp=nbsp):
+def compute(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
 
     s = ""
     # s += f"{post} "
@@ -60,8 +61,10 @@ def compute(*, sep=sep, nbsp=nbsp):
 
     res = s
     for name, meth in methodologies.items():
-        # _s = name
-        _s = meth["name"]
+        if short:
+            _s = name
+        else:
+            _s = meth["name"]
         if nbsp:
             _s = _s.replace(" ", " ", 1)
         s += _s
@@ -88,12 +91,14 @@ def valitade(res):
 
 
 if __name__ == "__main__":
-    import sys
-    if len(sys.argv) >= 2:
-        sep = sys.argv[1]
-    if len(sys.argv) >= 3:
-        nbsp = False
+    from argparse import ArgumentParser
+    parser = ArgumentParser()
+    parser.add_argument('--short', action="store_true", default=short)
+    parser.add_argument('--space', action="store_false", dest="nbsp", default=nbsp)
+    parser.add_argument('--sep', default=sep)
+    args = parser.parse_args()
+    if not args.nbsp:
         print("Not using NBSP")
-    res = compute(sep=sep, nbsp=nbsp)
+    res = compute(**vars(args))
     display(res)
     valitade(res)
