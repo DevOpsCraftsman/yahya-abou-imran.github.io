@@ -3,11 +3,13 @@ company = "EasyWayWeb"
 post = "Software Engineer"
 
 methodologies = {
-    "Craft": {
-        "name": "Software Craftsmanship",
-    },
     "DevOps": {
         "name": "DevOps",
+        "headline": False,
+    },
+    "Craft": {
+        "name": "Software Craftsmanship",
+        "headline": False,
     },
     "Lean": {
         "name": "Lean Software Development",
@@ -27,6 +29,9 @@ methodologies = {
         "name": "Continuous Delivery",
         "level": "Medium",
     },
+    "IaC": {
+        "name": "Infrastructure as Code",
+    },
     "DDD": {
         "name": "Domain Driven Design",
     },
@@ -39,6 +44,7 @@ methodologies = {
     "SOLID": {
         "name": "SOLID principles",
         "level": "Medium",
+        "headline": False,
     },
     # "TDD": {
     #     "name": "Test Driven Development",
@@ -49,7 +55,9 @@ methodologies = {
 max_len = 220
 pc_cut_len = 69
 phone_cut_len = 50
-sep = " & "
+sep = " | "
+at = "At "
+opening = ": "
 nbsp = True
 short = True
 
@@ -58,8 +66,13 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
 
     s = ""
     # s += f"{post} "
-    s += f"@{company} = "
+    # s += f"{at}{company}{opening}"
     # s += "Stack: "
+    s += (
+        "DevOps Craftsman at EasyWayWeb – "
+        "I help organizations and individuals make better software faster"
+        " ("
+    )
 
     res = s
     for name, meth in methodologies.items():
@@ -77,7 +90,7 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
         res = s = s + sep
 
     res = res.removesuffix(sep)
-    return res
+    return res + ")"
 
 
 def description():
