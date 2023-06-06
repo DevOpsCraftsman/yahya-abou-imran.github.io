@@ -25,15 +25,15 @@ methodologies = {
     "TDD/BDD": {
         "name": "Behavior Driven Development",
     },
+    "DDD": {
+        "name": "Domain Driven Design",
+    },
     "CI/CD": {
         "name": "Continuous Delivery",
         "level": "Medium",
     },
     "IaC": {
         "name": "Infrastructure as Code",
-    },
-    "DDD": {
-        "name": "Domain Driven Design",
     },
     "Clean Arch": {
         "name": "Clean Architecture",
@@ -70,8 +70,13 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
     # s += "Stack: "
     s += (
         "DevOps Craftsman at EasyWayWeb – "
-        "I help organizations and individuals make better software faster"
-        " ("
+        "I help "
+        "business and IT people "
+        "produce successful and meaningful software "
+        "through fulfilling collaboration "
+        # "I help individuals and organizations make better software faster "
+        # "with exclellence, respect, fullfilment and in a sane environment "
+        "("
     )
 
     res = s
@@ -93,12 +98,12 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
     return res + ")"
 
 
-def description():
+def description(tmpl="• {name}\n"):
 
     res = ""
     for shortname, meth in methodologies.items():
         name = meth["name"]
-        s = f"• {name}\n"
+        s = tmpl.format(name=name)
         res += s
 
     return res
@@ -115,6 +120,7 @@ def display(res):
 def valitade(res):
     assert company in res[:phone_cut_len]
     assert "Craft" in res[:phone_cut_len]
+    print(f"length: {len(res)} (≤ {max_len})")
     assert len(res) <= max_len
 
 
@@ -128,7 +134,9 @@ if __name__ == "__main__":
     if not args.nbsp:
         print("Not using NBSP")
     res = headline(**vars(args))
-    display(res)
     valitade(res)
+    display(res)
     print(description())
+    print(description(tmpl="{name} "))
+    print()
 
