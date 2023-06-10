@@ -1,6 +1,7 @@
-company = "EasyWayWeb"
+company = "Easy Way Web"
 # post = "Software Engineer & Architect"
-post = "Software Engineer"
+# title = "Software Engineer"
+title = "DevOps Craftsman"
 
 methodologies = {
     "DevOps": {
@@ -22,7 +23,10 @@ methodologies = {
     "XP": {
         "name": "Extreme Programming",
     },
-    "TDD/BDD": {
+    "Kanban": {
+        "name": "Kanban",
+    },
+    "BDD": {
         "name": "Behavior Driven Development",
     },
     "DDD": {
@@ -44,18 +48,17 @@ methodologies = {
     "SOLID": {
         "name": "SOLID principles",
         "level": "Medium",
-        "headline": False,
     },
-    # "TDD": {
-    #     "name": "Test Driven Development",
-    #     "level": "low",
-    # },
+    "TDD": {
+        "name": "Test Driven Development",
+        "level": "low",
+    },
 }
 
 max_len = 220
-pc_cut_len = 69
-phone_cut_len = 50
-sep = " | "
+pc_cut_len = 65
+phone_cut_len = 40
+sep = ", "
 at = "At "
 opening = ": "
 nbsp = True
@@ -69,16 +72,17 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
     # s += f"{at}{company}{opening}"
     # s += "Stack: "
     s += (
-        "DevOps Craftsman at EasyWayWeb – "
-        "I help "
-        "people engaged in software delivery "
-        "experience peace, excellence and fulfillment "
-        "through successful and valuable products "
-        # "produce successful and meaningful software "
-        # "through fulfilling collaboration "
-        # "I help individuals and organizations make better software faster "
-        # "with exclellence, respect, fullfilment and in a sane environment "
-        "("
+        "Meaningful Software Delivery"
+        # " advocate"
+        # " at"
+        " – "
+        f"{company}"
+        " | "
+        f"{title}"
+        " | "
+        # "Empowering software delivery actors "
+        # "to surmount troubles and experience fulfillment "
+        # "with successful products | "
     )
 
     res = s
@@ -93,11 +97,12 @@ def headline(*, short=short, sep=sep, nbsp=nbsp, **kwargs):
             _s = _s.replace(" ", " ", 1)
         s += _s
         if len(s) >= max_len:
+            print(f"Stripped at: {_s}")
             break
         res = s = s + sep
 
     res = res.removesuffix(sep)
-    return res + ")"
+    return res
 
 
 def description(tmpl="• {name}\n"):
@@ -120,8 +125,12 @@ def display(res):
     print()
 
 def valitade(res):
-    assert company in res[:phone_cut_len]
-    assert "Craft" in res[:phone_cut_len]
+    assert "DevOps" in res[:pc_cut_len]
+    assert "Craft" in res[:pc_cut_len]
+    assert company in res[:pc_cut_len]
+    # assert "DevOps" in res[:phone_cut_len]
+    # assert "Craft" in res[:phone_cut_len]
+    # assert company in res[:phone_cut_len]
     print(f"length: {len(res)} (≤ {max_len})")
     assert len(res) <= max_len
 
@@ -136,8 +145,8 @@ if __name__ == "__main__":
     if not args.nbsp:
         print("Not using NBSP")
     res = headline(**vars(args))
-    valitade(res)
     display(res)
+    valitade(res)
     print(description())
     print(description(tmpl="{name} "))
     print()
