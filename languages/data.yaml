@@ -165,12 +165,18 @@
   historical: true
   level: 0
 
+- name: Objective-C
+  date: 1984
+  interest: 1
+  historical: true
+  level: 0
+
 - name: Nim
   date: 2008
   interest: 2
   level: 1
 
-- name: lua
+- name: Lua
   date: 1993
   interest: 2
   level: 1
@@ -192,4 +198,27 @@
   interest: 2
   secondary: true
   level: 1
+
+- name: zsh
+  date: 1990
+  interest: 1
+  level: 1
+
+- name: Erlang
+  date: 1986
+  interest: 2
+  historical: true
+  level: 0
+
+- name: Eiffel
+  date: 1986
+  historical: true
+  level: 0
+  interest: 2
+
+- name: OCaml
+  date: 1996
+  functional: true
+  level: 0
+  interest: 2
 

@@ -11,7 +11,7 @@ def sort(languages, *fields):
 
 def display(languages, *fields):
     for l in sort(languages, *fields):
-        s = f"- `[{('*' * l['level']).ljust(5)}]` {l['name']} ({l['date']})"
+        s = f"- `[{('*' * l.get('level')).ljust(5)}]` {l['name']} ({l['date']})"
         print(s)
 
 
