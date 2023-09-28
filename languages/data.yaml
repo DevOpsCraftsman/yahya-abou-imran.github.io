@@ -175,3 +175,21 @@
   interest: 2
   level: 1
 
+- name: Swift
+  date: 2014
+  interest: 2
+  level: 0
+  secondary: true
+
+- name: sh
+  date: 1979
+  interest: 2
+  historical: true
+  level: 1
+
+- name: bash
+  date: 1989
+  interest: 2
+  secondary: true
+  level: 1
+
