@@ -18,10 +18,20 @@
   mainstream: true
   level: 2
 
+- name: F#
+  date: 2005
+  functional: true
+  level: 2
+
 - name: JavaScript
   date: 1995
   mainstream: true
   level: 3
+
+- name: TypeScript
+  date: 2012
+  mainstream: true
+  level: 2
 
 - name: Ruby
   date: 1995
@@ -40,7 +50,7 @@
   secondary: true
   level: 1
 
-- name: Dart / Flutter
+- name: Dart
   date: 2011
   interest: 5
   secondary: true
@@ -48,20 +58,19 @@
 
 - name: Elixir
   date: 2014
+  functional: true
   interest: 4
-  secondary: true
   level: 1
 
 - name: Julia
   date: 2012
   interest: 1
-  secondary: true
   level: 1
 
 - name: Scala
   date: 2004
+  functional: true
   interest: 1
-  secondary: true
   jvm: true
   level: 1
 
@@ -75,12 +84,12 @@
 - name: Groovy
   date: 2003
   interest: 1
-  secondary: true
   jvm: true
   level: 1
 
 - name: Haskel
   date: 1990
+  functional: true
   interest: 4
   level: 1
 
@@ -96,6 +105,7 @@
 
 - name: Clojure
   date: 2007
+  functional: true
   interest: 3
   jvm: true
   level: 0
@@ -154,6 +164,11 @@
   date: 1970
   historical: true
   level: 0
+
+- name: Nim
+  date: 2008
+  interest: 2
+  level: 1
 
 - name: lua
   date: 1993

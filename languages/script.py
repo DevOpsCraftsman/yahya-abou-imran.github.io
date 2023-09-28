@@ -29,20 +29,23 @@ with open("./data.yaml") as file:
 
 
 print("## Mainstreams:")
-display(extract(data, "mainstream"), "level", "date")
+display(extract(data, "mainstream"), "date")
 
-jvm_languages = extract(data, "jvm")
 
 print("\n## Secondary:")
-display(extract(data, "secondary"), "level", "date")
+display(extract(data, "secondary"), "date")
 
-print("\n## JVM:")
-display(jvm_languages, "level", "date")
+
+print("\n## Functional:")
+display(extract(data, "functional"), "date")
 
 
 print("\n## Historicals:")
-display(extract(data, "historical"), "level", "date")
+display(extract(data, "historical"), "date")
 
 
 print("\n## Others:")
-display(data, "level", "date")
+display(data, "date")
+
+print("")
+
